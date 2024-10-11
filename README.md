@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariano</h1>
 <h3 align="center">Computer Engineering Student and Front End Developer</h3>
 
-- 🔭 I’m currently working on [Full-Stack](https://github.com/marianofernandezs/Full-Stack)
+- 🔭 I’m currently working on [Learn Machine Learning and IA]
 
 - 🌱 I’m currently learning **JavaScript, React, Tailwind, Angular**
 
