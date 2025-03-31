@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariano</h1>
-<h3 align="center">Computer Engineering Student and Front End Developer</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 - 🔭 I’m currently working on [Learn Machine Learning and IA]
 
